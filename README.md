@@ -8,6 +8,7 @@ A web based control panel for OVH VPS servers, created for VPS providers reselli
 - [ ] Allow multiple users to access one server
 - [ ] Create server address name via CloudFlare DNS
 - [ ] Enable / disable open features
+
 _More will be added to the list_
 
 ## Important Information
